@@ -19,7 +19,7 @@ def forca():
 
         if letra in letras_erradas or letra in letras_corretas:
             print("Você já tentou essa letra. Tente outra.")
-            continue  # Volta para o início do loop
+            continue 
 
         if letra in palavra: 
             for i in range(len(palavra)):  
@@ -29,11 +29,10 @@ def forca():
             tentativas -= 1 
             letras_erradas.append(letra)
 
-    # Condição final: venceu ou perdeu
+    
     if "_" not in letras_corretas:
         print("\nParabéns! Você acertou a palavra:", palavra)
     else:
         print("\nVocê perdeu! A palavra era:", palavra)
 
-# Chama a função para iniciar o jogo
 forca()
