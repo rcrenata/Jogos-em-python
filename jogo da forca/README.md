@@ -1,4 +1,4 @@
-# 🐾 Jogo da Forca: Animais Amazônicos
+# Jogo da Forca: Animais Amazônicos
 
 Este é um jogo da Forca simples, desenvolvido em Python, com palavras relacionadas a animais típicos da Amazônia. O objetivo é adivinhar o nome de um animal antes de esgotar suas tentativas!
 
@@ -13,7 +13,7 @@ Este é um jogo da Forca simples, desenvolvido em Python, com palavras relaciona
 
 ---
 
-## 🛠️ Como Executar
+## Como Executar
 
 1. Certifique-se de ter o Python instalado na sua máquina (versão 3.6 ou superior).
 2. Clone o repositório ou baixe o arquivo `forca.py`.
