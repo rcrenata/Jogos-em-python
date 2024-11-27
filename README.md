@@ -4,7 +4,7 @@ Este repositório reúne diversos jogos simples e interativos desenvolvidos em P
 
 ## Jogos Disponíveis
 
-### 1. [Jogo da Forca](./jogo-da-forca/README.md)
+### 1. [Jogo da Forca](./jogo%20da%20forca/README.md)
 - Tema: Animais amazônicos 
 - Tente adivinhar o nome de um animal antes de esgotar suas tentativas.
 - **Conceitos aplicados**: manipulação de strings, loops, listas e interatividade no terminal.
