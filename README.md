@@ -1,4 +1,4 @@
-# Coleção de Jogos em Python
+# 🎮 Coleção de Jogos em Python
 
 Este repositório reúne diversos jogos simples e interativos desenvolvidos em Python que podem ser executados diretamente no terminal.
 
@@ -10,7 +10,7 @@ Este repositório reúne diversos jogos simples e interativos desenvolvidos em P
 - **Conceitos aplicados**: manipulação de strings, loops, listas e interatividade no terminal.
   
 ### 2. [Jogo da Velha](./jogo_da_velha/README.md) *(em progresso)*
-- Clássico jogo para dois jogadores no terminal.
+- Clássico jogo para dois jogadores no terminal ou contra o próprio computador.
 - Marque três espaços consecutivos para vencer (horizontal, vertical ou diagonal).
 - **Conceitos aplicados**: matrizes, lógica de vitória e controle de jogadores.
 
